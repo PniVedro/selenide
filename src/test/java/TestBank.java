@@ -17,6 +17,5 @@ public class TestBank {
         $("[data-test-id=order-success]").shouldHave(exactText("Ваша заявка успешно отправлена! Наш менеджер свяжется с вами в ближайшее время."));
 
 
-
     }
 }
